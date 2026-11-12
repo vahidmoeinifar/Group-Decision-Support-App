@@ -1,0 +1,16 @@
+# Build output
+build/
+build-*/
+out/
+
+# Qt Creator / IDE files
+CMakeLists.txt.user*
+*.user
+.vs/
+.vscode/
+.idea/
+
+# Local databases
+*.db
+*.db-wal
+*.db-shm
